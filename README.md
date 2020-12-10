@@ -16,5 +16,5 @@ last indexes of the array
 
 **To Run**
 ```
-On your root folder type php index.php
+On your repositories root folder type php index.php
 ```
